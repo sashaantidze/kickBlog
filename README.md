@@ -1,0 +1,2 @@
+# kickBlog
+blog_template
